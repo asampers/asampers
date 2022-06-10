@@ -1,3 +1,3 @@
 Hi, I’m @asampers.
 
-I’m currently learning the foundations of coding through the Odin Project.
+I’m currently learning Ruby on Rails through the Odin Project.
