@@ -5,7 +5,7 @@ I’m excited to bring my coding knowledge and the skills I’ve honed from my 1
 
 I taught myself programming with [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails). 
 
-While I am new to the computer programming world, all of my previous roles at an arts nonprofit organization have prepared me for this career jump. I am well-versed in accurate and timely email response, calendar management with competing deadlines, and multi-tasking. I thrive in a goal oriented environment and find no task too big or small when it moves the team forward. 
+Working with any programming language is endlessly fascinating and challenging. I love the puzzle of figuring out how to elegantly organize data and display it in a user-pleasing manner. Timelines are God. Work/life balance is incredibly important to me, as is the happiness and satisfaction of every client I work with!
 
 ## Technologies & Tools
 [![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#)
