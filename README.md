@@ -18,7 +18,8 @@ Working with any programming language is endlessly fascinating and challenging. 
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)](#)
 
-[![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rspec&logoColor=white)](#)
+[![RSpec](https://img.shields.io/badge/-RSpec-000?style=for-the-badge&logo=rspec&logoColor=white)](#)  
+[![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=#C21325)](#)
 
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)](#)
 [![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](#)
