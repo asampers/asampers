@@ -14,6 +14,7 @@ Working with any programming language is endlessly fascinating and challenging. 
 [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
 
 [![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)](#)
+[![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](#)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)](#)
