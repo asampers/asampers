@@ -8,6 +8,7 @@ I taught myself programming with [The Odin Project](https://www.theodinproject.c
 Working with any programming language is endlessly fascinating and challenging. I love the puzzle of figuring out how to elegantly organize data and display it in a user-pleasing manner. Timelines are God. Work/life balance is incredibly important to me, as is the happiness and satisfaction of every client I work with!
 
 ## Technologies & Tools
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 [![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26)](#)
